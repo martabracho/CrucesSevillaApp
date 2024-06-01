@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package com.example.crucessevillaapp.screens
 
 import android.annotation.SuppressLint
@@ -7,44 +9,49 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.height
 import androidx.compose.material3.Button
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
+import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import androidx.compose.ui.unit.dp
 
+import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
+import com.example.crucessevillaapp.navigation.AppScreens
+
+@OptIn(ExperimentalMaterial3Api::class)
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
-fun Portada () {
-
-    Scaffold {
-        BodyContent()
+fun Portada (navController: NavController) {
+    Scaffold (topBar = {
+        TopAppBar(title = {
+            Text("Cruces de Sevilla - Inicio")
+        })
+    }){
+        BodyContent(navController)
     }
 }
 
     @Composable
-    fun BodyContent(){
+    fun BodyContent(navController: NavController){
         Column (
             modifier = Modifier.fillMaxSize(),
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ){
-            TextField(value = "", onValueChange = {} )
+            TextField(value = "Número de cruce", onValueChange = {} )
             Spacer(modifier = Modifier.height(16.dp))
-            Button(onClick = { /*TODO*/ }) {
+            Button(onClick = {
+                navController.navigate(route = AppScreens.InfoCruce.route + "/1")
+            }) {
                 Text("Consulta")
             }
         }
     }
 
-    @Preview (showBackground = true)
-    @Composable
-    fun PortadaPreview(){
-        Portada()
-    }
 
 
 
