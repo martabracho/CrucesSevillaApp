@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CrucesSevillaApp</string>
+    <string name="title_activity_view_cruces">ViewCruces</string>
 </resources>

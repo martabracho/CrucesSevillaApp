@@ -1,5 +1,6 @@
 package com.example.crucessevillaapp.navigation
 
+
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -8,6 +9,8 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.crucessevillaapp.screens.InfoCruce
 import com.example.crucessevillaapp.screens.Portada
+import com.example.crucessevillaapp.screens.SettingsBD
+import com.example.crucessevillaapp.screens.ViewCruces
 
 
 /**
@@ -26,5 +29,12 @@ fun AppNavigation() {
             arguments = listOf(navArgument("idCruce") { type = NavType.StringType })){
             InfoCruce(navController, it.arguments?.getString("idCruce"))
         }
+        composable(route = AppScreens.SettingsBD.route){
+            SettingsBD(navController)
+        }
+        composable(route = AppScreens.ViewCruces.route){
+            ViewCruces(navController)
+        }
     }
 }
+

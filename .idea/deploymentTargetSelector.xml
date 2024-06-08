@@ -4,13 +4,21 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2024-06-07T13:26:57.768342100Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=RFCNC018LAE" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
       </SelectionState>
       <SelectionState runConfigName="CrucesSevillaApp">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-06-01T12:10:56.557247600Z">
+        <DropdownSelection timestamp="2024-06-01T12:25:00.273275600Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\Marta\.android\avd\Pixel_3a_XL_API_30.avd" />
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=RFCNC018LAE" />
             </handle>
           </Target>
         </DropdownSelection>
