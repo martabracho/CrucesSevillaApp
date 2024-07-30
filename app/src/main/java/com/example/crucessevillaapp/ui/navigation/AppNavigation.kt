@@ -1,4 +1,4 @@
-package com.example.crucessevillaapp.navigation
+package com.example.crucessevillaapp.ui.navigation
 
 
 import androidx.compose.runtime.Composable
@@ -7,10 +7,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.crucessevillaapp.screens.InfoCruce
-import com.example.crucessevillaapp.screens.Portada
-import com.example.crucessevillaapp.screens.SettingsBD
-import com.example.crucessevillaapp.screens.ViewCruces
+import com.example.crucessevillaapp.ui.screens.InfoCruce
+import com.example.crucessevillaapp.ui.screens.Portada
+import com.example.crucessevillaapp.ui.screens.SettingsBD
+import com.example.crucessevillaapp.ui.screens.ViewCruces
 
 
 /**

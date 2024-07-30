@@ -1,11 +1,9 @@
-package com.example.crucessevillaapp.screens
+package com.example.crucessevillaapp.ui.screens
 
 import android.annotation.SuppressLint
-import android.content.Context
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController
-import java.io.IOException
 
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")

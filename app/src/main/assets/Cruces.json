@@ -4,21 +4,21 @@
         "DIRECCION": "CARRETERA DE SU EMINENCIA - AVENIDA DE LA PAZ - ESCULTOR SEBASTIAN SANTOS",
         "NODO": 22,
         "NUMCRUCE": 1,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA PALMERA - TORCUATO LUCA DE TENA",
         "NODO": 4,
         "NUMCRUCE": 2,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA MANUEL SIUROT- CARDENAL ILUNDAIN",
         "NODO": 12,
         "NUMCRUCE": 3,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 4,
@@ -39,14 +39,14 @@
         "DIRECCION": "AVENIDA RAMON Y CAJAL- VILLEGAS Y MARMOLEJO - VIRGEN DEL SOL",
         "NODO": 3,
         "NUMCRUCE": 6,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 9,
         "DIRECCION": "ESPINOSA Y CARCEL- DIVINO REDENTOR - SANTA MARIA MAZZARELLO",
         "NODO": 17,
         "NUMCRUCE": 7,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 6,
@@ -74,14 +74,14 @@
         "DIRECCION": "AVENIDA DELOS GAVILANES - PUERTO DEL ESCUDO - LEANDRAS",
         "NODO": 7,
         "NUMCRUCE": 11,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA PALMERA - CARDENAL ILUNDAIN - PAEZ DE RIVERA",
         "NODO": 5,
         "NUMCRUCE": 12,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 4,
@@ -95,7 +95,7 @@
         "DIRECCION": "REPUBLICA ARGENTINA-VIRGEN DE SETEFILLA - VIRGEN DE LAS HUERTAS",
         "NODO": 14,
         "NUMCRUCE": 14,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 6,
@@ -130,7 +130,7 @@
         "DIRECCION": "AVENIDA DE LA BORBOLLA - AVENIDA DE LA GUARDIA CIVIL - AVENIDA MANUEL SIUROT",
         "NODO": 9,
         "NUMCRUCE": 19,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
@@ -179,35 +179,35 @@
         "DIRECCION": "INGENIERO JUAN DEVLA CIERVA - AVENIDA DE LOS GAVILANES - ARZOBISPO DON MU�O - PRUNA",
         "NODO": 9,
         "NUMCRUCE": 26,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "INGENIERO JUAN DE LA CIERVA - PEDRO DE VALDIVIA",
         "NODO": 10,
         "NUMCRUCE": 27,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "INGENIERO JUAN DE LA CIERVA - SIMON BOLIVA\\R - AZORIN",
         "NODO": 11,
         "NUMCRUCE": 28,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "INGENIERO JUAN DE LA CIERVA - GUSTAVO DORE - FRAY LUIS DE LEON",
         "NODO": 12,
         "NUMCRUCE": 29,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "INGENIERO JUAN DE LA CIERVA - LA ALGABA - AVENIDA DE LA CALESERA - AVENIDA DE LA PLATA",
         "NODO": 13,
         "NUMCRUCE": 30,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
@@ -277,14 +277,14 @@
         "DIRECCION": "PLAZA 1 DE MAYO - CARLOS MARX - AVENIDA FEDERICO MAYO GAYARRE - AVENIDA JUAN XXIII - CANDELERIA",
         "NODO": 16,
         "NUMCRUCE": 40,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "FRAY ISIDORO DE SEVILLA - CRUZ ROJA - DOCTOR JIMENEZ DIAZ - MANUEL VILLALOBOS - PREVISION",
         "NODO": 17,
         "NUMCRUCE": 41,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 10,
@@ -319,7 +319,7 @@
         "DIRECCION": "PLAZA DEL ALTOZANO",
         "NODO": 15,
         "NUMCRUCE": 46,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 5,
@@ -340,7 +340,7 @@
         "DIRECCION": "SAN JACINTO - ESPERANZA DE TRIANA",
         "NODO": 2,
         "NUMCRUCE": 49,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 6,
@@ -354,28 +354,28 @@
         "DIRECCION": "GLORIETA PLUS ULTRA",
         "NODO": 2,
         "NUMCRUCE": 51,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "GLORIETA LOS DEL RIO - CARRETERA SU EMINENCIA - AVENIDA MANUEL SIUROT",
         "NODO": 1,
         "NUMCRUCE": 52,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 5,
         "DIRECCION": "SAN JACINTO - PAGES DEL CORRO",
         "NODO": 1,
         "NUMCRUCE": 53,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA PALMERA - PADRE GARCIA TEJERO",
         "NODO": 3,
         "NUMCRUCE": 54,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 5,
@@ -403,7 +403,7 @@
         "DIRECCION": "REPUBLICA ARGENTINA - ARCOS - VIRGEN DE VILLADIEGO",
         "NODO": 15,
         "NUMCRUCE": 58,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 4,
@@ -417,7 +417,7 @@
         "DIRECCION": "GLORIETA SAN DIEGO",
         "NODO": 1,
         "NUMCRUCE": 60,
-        "TIPO": "MF4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 54,
@@ -466,7 +466,7 @@
         "DIRECCION": "RECAREDO - PLAZA CARMEN BENITEZ",
         "NODO": 2,
         "NUMCRUCE": 67,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 1,
@@ -536,21 +536,21 @@
         "DIRECCION": "PASEO COLON - ALMIRANTE LOBO",
         "NODO": 3,
         "NUMCRUCE": 77,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 4,
         "DIRECCION": "PASEO COLON- PUENTE DE SAN TELMO -PASEO DE LAS DELICIAS",
         "NODO": 4,
         "NUMCRUCE": 78,
-        "TIPO": "MF4/10"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "JOSE DIAZ - ANTONIO BUERO VALLEJO",
         "NODO": 11,
         "NUMCRUCE": 79,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 52,
@@ -564,7 +564,7 @@
         "DIRECCION": "AVENIDA DE ROMA - PALOS DE LA FRONTERA",
         "NODO": 6,
         "NUMCRUCE": 81,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 4,
@@ -578,7 +578,7 @@
         "DIRECCION": "FELIPE II - VALPARAISO",
         "NODO": 19,
         "NUMCRUCE": 83,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 21,
@@ -620,7 +620,7 @@
         "DIRECCION": "AVENIDA DE LA BORBOLLA - FELIPE II",
         "NODO": 17,
         "NUMCRUCE": 89,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 3,
@@ -641,7 +641,7 @@
         "DIRECCION": "REYES CATOLICOS - JULIO CESAR - SANTAS PATRONAS - ZARAGOZA - SAN PABLO",
         "NODO": 11,
         "NUMCRUCE": 92,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 3,
@@ -655,14 +655,14 @@
         "DIRECCION": "MARQUES DE PARADAS - SAN LAUREANO - ALFONSO XI",
         "NODO": 15,
         "NUMCRUCE": 94,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 1,
         "DIRECCION": "PLAZA PONCE DE LEON - JUAN DE MESA",
         "NODO": 18,
         "NUMCRUCE": 95,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 10,
@@ -676,14 +676,14 @@
         "DIRECCION": "AVENIDA KANSAS CITY - CARRETERA DE CARMONA - MACEDONIA",
         "NODO": 9,
         "NUMCRUCE": 97,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA DE ANDALUCIA - RONDA DEL TAMARGUILLO",
         "NODO": 3,
         "NUMCRUCE": 98,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
@@ -697,14 +697,14 @@
         "DIRECCION": "TORRELAGUNA    - TORREMEGIA",
         "NODO": 5,
         "NUMCRUCE": 100,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA MANUEL SIUROT - TORCUATO LUCA DE TENA",
         "NODO": 14,
         "NUMCRUCE": 101,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 3,
@@ -718,7 +718,7 @@
         "DIRECCION": "TORNEO - BA�OS",
         "NODO": 3,
         "NUMCRUCE": 103,
-        "TIPO": "MTR/1"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 11,
@@ -753,7 +753,7 @@
         "DIRECCION": "ESPINOSA Y CARCEL - FERNANDEZ DE RIBERA",
         "NODO": 16,
         "NUMCRUCE": 108,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 1,
@@ -767,28 +767,28 @@
         "DIRECCION": "SAN JUAN DE RIBERA - FRAY ISIDORO DE SEVILLA",
         "NODO": 14,
         "NUMCRUCE": 110,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "DOCTOR FEDRIANI - DOCTOR LEAL CASTA�OS - DOCTOR MARA�ON - SAN JUAN DE RIBERA",
         "NODO": 16,
         "NUMCRUCE": 111,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "DOCTOR FEDRIANI - DIAMANTE - DOCTOR JAIME MARCOS",
         "NODO": 9,
         "NUMCRUCE": 112,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "DOCTOR FEDRIAN - AGATA - AVENIDA DE SAN LAZARO",
         "NODO": 8,
         "NUMCRUCE": 113,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 2,
@@ -809,14 +809,14 @@
         "DIRECCION": "RONDA DE PIO XII - SOR FRANCISCA DOROTEA - TRABAJADORES INMIGRANTES - LA BARZOLA - MADRESELVA ",
         "NODO": 29,
         "NUMCRUCE": 116,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "RONDA PIO XII - PLAZA DE FERNANDO BARQUIN",
         "NODO": 1,
         "NUMCRUCE": 117,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
@@ -837,21 +837,21 @@
         "DIRECCION": "CARRETERA CARMONA - FRANCISCO DE ARIÑO - ALMADEN DE LA PLATA",
         "NODO": 1,
         "NUMCRUCE": 120,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "CARRETERA CARMONA - ARQUITECTO JOSE GOMEZ MILLAN - ALONSO FERNANDEZ DE SANTILLANA",
         "NODO": 6,
         "NUMCRUCE": 121,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "CARRETERA CARMONA - POLIGONO STORE - HESPERIDES - BALTASAR DE ALCAZAR",
         "NODO": 7,
         "NUMCRUCE": 122,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
@@ -879,63 +879,63 @@
         "DIRECCION": "AMADOR DE LOS RIOS - LUIS CADARSO - JUAN DE VERA",
         "NODO": 13,
         "NUMCRUCE": 126,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "AVENIDA EL GRECO - MANUEL RAMON ALARCON - ISAAC ALBENIZ - TARSO",
         "NODO": 14,
         "NUMCRUCE": 127,
-        "TIPO": "MTR/4"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "AVENIDA PABLO IGLESIAS SAMANIEGO - P'UEBLO SAIHARAUI - ESPERANZA DE  LA TRINIDAD - PEDRO VALLINA",
         "NODO": 14,
         "NUMCRUCE": 128,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 4,
         "DIRECCION": "REPUBLICA ARGENTINA - VIRGEN DE CONSOLACION",
         "NODO": 13,
         "NUMCRUCE": 129,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA DE ANDALUCIA - VENCEJO - GORRION - AVENIDA DEL TRANSPORTE",
         "NODO": 11,
         "NUMCRUCE": 130,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "NAVIOS ARGOS - CANDELILLA - CANDELON - GALAXIA",
         "NODO": 18,
         "NUMCRUCE": 131,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "FEDERICO MAYO GAYARRE - CANDELILLA - PEDRO DE MADRID",
         "NODO": 17,
         "NUMCRUCE": 132,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA JUAN XXIIl - AVENIDA DE LOS GAVILANES - AVENIDA DE LA MONTERIA - AVENIDA DE LA REVOLTOSA",
         "NODO": 20,
         "NUMCRUCE": 133,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "AFAN DE RIBERA - OCHO DE MARZO ",
         "NODO": 6,
         "NUMCRUCE": 134,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
@@ -956,7 +956,7 @@
         "DIRECCION": "AVENIDA DE PORTUGAL - DIEGO DE RIA�O",
         "NODO": 12,
         "NUMCRUCE": 137,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 21,
@@ -970,28 +970,28 @@
         "DIRECCION": "AVENIDA REINA MERCEDES - PAEZ DE RIVERA - ISAAC PERAL",
         "NODO": 18,
         "NUMCRUCE": 139,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "GLORIETA ALCALDE FERNANDO DE PARIAS MERRY - AVENIDA REINA MERCEDES - PADRE GARCIA TEJERO - HONDURAS",
         "NODO": 2,
         "NUMCRUCE": 140,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "PADRE GARCIA TEJERO - MONZON",
         "NODO": 22,
         "NUMCRUCE": 141,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "PADRE GARCIA TEJERO - SAN ANTONIO MARIA CLARET - DOCTOR FLEMING",
         "NODO": 23,
         "NUMCRUCE": 142,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 6,
@@ -1054,14 +1054,14 @@
         "DIRECCION": "GLORIETA DE MEJICO",
         "NODO": 8,
         "NUMCRUCE": 151,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
         "DIRECCION": "AVENIDA RAMON Y CAJAL - AVENIDA SAN FRANCISCO JAVIER - AVENIDA DIEGO MARTINEZ BARRIOS",
         "NODO": 2,
         "NUMCRUCE": 152,
-        "TIPO": "MTR/4"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 9,
@@ -1082,42 +1082,42 @@
         "DIRECCION": "AVENIDA CIUDAD JARDIN - FRANCISCO BUENDIA",
         "NODO": 12,
         "NUMCRUCE": 155,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "MEDINA Y GALNARES - CATALU�A - RONDA DEL TAMARGUILLO",
         "NODO": 8,
         "NUMCRUCE": 156,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "GLORIETA MANUEL RIVAS TRUJILLO (NAVARRA - CATALU�A - MEJILLON - MELILLA)",
         "NODO": 6,
         "NUMCRUCE": 157,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 22,
         "DIRECCION": "DOCTOR FEDRIANI - HUERTA DE LA FONTANILLA - CEMENTERIO (DR.FEDRIANI-CEMENTERIO)",
         "NODO": 4,
         "NUMCRUCE": 158,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA MANUEL SIUROT - GENARO PARLADE",
         "NODO": 11,
         "NUMCRUCE": 159,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "PP. AVENIDA DE LA BUHAIRA - ACCESO JARDINES DE LA BUHAIRA",
         "NODO": 28,
         "NUMCRUCE": 160,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
@@ -1131,42 +1131,42 @@
         "DIRECCION": "AVENIDA DE [TALIA - AVENIDA DE JEREZ - ELCHE (N.IV-PINEDA-ACC. BDA. ELCANO)",
         "NODO": 1,
         "NUMCRUCE": 162,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA PALMERA - CHAVES REY",
         "NODO": 5,
         "NUMCRUCE": 163,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
         "DIRECCION": "PAULO OROSIO - BEATRIZ DE AHUMADA - DOCTOR SERRANO PEREZ ",
         "NODO": 9,
         "NUMCRUCE": 164,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "PP. AVENIDA PINO MONTANO - CONSTANTINA - FAURA",
         "NODO": 3,
         "NUMCRUCE": 165,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA PINO MONTANO - ROQUE BALDUQUE - ANTONIO CABRAL BEJARANO",
         "NODO": 6,
         "NUMCRUCE": 166,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "AVENIDA EDUARDO DATO - VIRGEN DE VALVANERA",
         "NODO": 5,
         "NUMCRUCE": 167,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 17,
@@ -1208,7 +1208,7 @@
         "DIRECCION": "AVENIDA DOÑA FRANCISQUITA - SIMON BOLIVAR - LOS CLAVELES",
         "NODO": 29,
         "NUMCRUCE": 173,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
@@ -1236,35 +1236,35 @@
         "DIRECCION": "AVENIDA   CIUDAD   JARDIN",
         "NODO": 11,
         "NUMCRUCE": 177,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "AVENIDA DE LA CRUZ DEL CAMPO",
         "NODO": 17,
         "NUMCRUCE": 178,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "TESALONICA - DAMASCO - JERUSALEN - LUIS MAZZANTINI",
         "NODO": 8,
         "NUMCRUCE": 179,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "PP. AVENIDA DE JEREZ - MALLORCA",
         "NODO": 23,
         "NUMCRUCE": 180,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "CARRETERA CARMONA - LOPEZ DE LEGAZPI - SANTA MARIA DE LEZAMA",
         "NODO": 2,
         "NUMCRUCE": 181,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 1,
@@ -1292,14 +1292,14 @@
         "DIRECCION": "AVENIDA KANSAS CITY - TESALONICA - AVENIDA VEINTIOCHO DE FEBRERO",
         "NODO": 13,
         "NUMCRUCE": 185,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 23,
         "DIRECCION": "CORTIJO DE LAS CASILLAS - ESPARTEROS",
         "NODO": 5,
         "NUMCRUCE": 186,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 23,
@@ -1327,7 +1327,7 @@
         "DIRECCION": "FELIPE II - JES�S DE LA VICTORIA",
         "NODO": 21,
         "NUMCRUCE": 190,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 15,
@@ -1348,21 +1348,21 @@
         "DIRECCION": "DOCTOR FEDRIANI - MANZANA",
         "NODO": 13,
         "NUMCRUCE": 193,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "MEDINA Y GALNARES - MIGUEL ROMERO MARTINEZ - CAZON - ALMIRANTE VALDES",
         "NODO": 11,
         "NUMCRUCE": 194,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA MANUEL SIUROT - DOMINGO TEJERA",
         "NODO": 13,
         "NUMCRUCE": 195,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
@@ -1383,14 +1383,14 @@
         "DIRECCION": "AVENIDA SAN JUAN DE LA SALLE - CISNEO ALTO - FAURA - ROMERO",
         "NODO": 21,
         "NUMCRUCE": 198,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "AVENIDA MIRAFLORES - ALMADEN DE LA PLATA - GENERAL MARVA",
         "NODO": 4,
         "NUMCRUCE": 199,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
@@ -1418,14 +1418,14 @@
         "DIRECCION": "PLAZA DE ANTONIO MARTELO - ARROYO - SAN JUAN BOSCO",
         "NODO": 9,
         "NUMCRUCE": 203,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 9,
         "DIRECCION": "VILLEGAS MARMOLEJOS - SANTA MARIA MAZZARELLO",
         "NODO": 18,
         "NUMCRUCE": 204,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 8,
@@ -1488,7 +1488,7 @@
         "DIRECCION": "ARROYO - FRANCISCO ARI�O - SAMANIEGO",
         "NODO": 23,
         "NUMCRUCE": 214,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 1,
@@ -1502,28 +1502,28 @@
         "DIRECCION": "AVENIDA MIRAFLORES - SANTA M. ORDAZ - MARGARITA - CONDE DE HALCON - ALHELI - SANTA M. DE LOS REYES",
         "NODO": 2,
         "NUMCRUCE": 216,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 4,
         "DIRECCION": "PASEO COLON - DOS DE MAYO",
         "NODO": 1,
         "NUMCRUCE": 217,
-        "TIPO": "MF4/2"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA MONTES SIERRA - UTRERA DE MOLINA - ADA - TESALONICA",
         "NODO": 4,
         "NUMCRUCE": 218,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "CARRETERA CARMONA",
         "NODO": 3,
         "NUMCRUCE": 219,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
@@ -1537,14 +1537,14 @@
         "DIRECCION": "CARRETERA SU EMINENCIA - LUIS ORTIZ MU�OZ - POLIGONO SUR",
         "NODO": 22,
         "NUMCRUCE": 221,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "AVENIDA  HYTASA - JOSE MARIA DE PEREDA   - PEDRO MU�OZ TORRES",
         "NODO": 3,
         "NUMCRUCE": 222,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 54,
@@ -1572,14 +1572,14 @@
         "DIRECCION": "PLAZA DEL DUQUE - CAMPANA - AMOR DE DIOS - JAVIER LASSO DE LA VEGA - TARIFA",
         "NODO": 15,
         "NUMCRUCE": 226,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "PLAZA DE VILLASIS VILLA - LARANA - ORFILA - CUNA",
         "NODO": 16,
         "NUMCRUCE": 227,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 8,
@@ -1600,28 +1600,28 @@
         "DIRECCION": "PAGES DEL CORRO - SAN VICENTE DE PAUL - PURU�UELA - CLARA DE JESUS MONTERO",
         "NODO": 10,
         "NUMCRUCE": 230,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 8,
         "DIRECCION": "ALMIRANTE TOPETE - ESTEPA - CONCEPCION ARENAL",
         "NODO": 14,
         "NUMCRUCE": 231,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 9,
         "DIRECCION": "AVENIDA SAN JUAN DE LA CRUZ - CARLOS GARCIA OVIEDO",
         "NODO": 10,
         "NUMCRUCE": 232,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "EFESO-TARSO- ADA-JERUSALEN",
         "NODO": 5,
         "NUMCRUCE": 233,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 21,
@@ -1642,21 +1642,21 @@
         "DIRECCION": "AVENIDA LA BARZOLA - PUEBLO PALESTINO - SANCHO DAVILA",
         "NODO": 20,
         "NUMCRUCE": 236,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AMOR-COLEGIO AMATE",
         "NODO": 14,
         "NUMCRUCE": 237,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "PP. AVENIDA DE JEREZ - JAZMIN",
         "NODO": 24,
         "NUMCRUCE": 238,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 3,
@@ -1670,7 +1670,7 @@
         "DIRECCION": "AVENIDA PINO MONTANO - ORFEBRE DOMINGUEZ VAZQUEZ - ROMERO",
         "NODO": 9,
         "NUMCRUCE": 240,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 10,
@@ -1684,14 +1684,14 @@
         "DIRECCION": "AVENIDA DE LA RAZA - PAEZ DE RIVERA",
         "NODO": 16,
         "NUMCRUCE": 242,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA MANUEL SIUROT - RAFAEL SALGADO",
         "NODO": 15,
         "NUMCRUCE": 243,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
@@ -1705,14 +1705,14 @@
         "DIRECCION": "AVENIDA DIEGO MARTINEZ BARRIOS - JOSE SARAMAGO - ANGEL GELAN",
         "NODO": 20,
         "NUMCRUCE": 245,
-        "TIPO": "MTR/4"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 20,
         "DIRECCION": "GLORIETA DE LETONIA - AVENIDA DE JEREZ - AVENIDA DE ALEMANIA - HOSPITAL MILITAR",
         "NODO": 2,
         "NUMCRUCE": 246,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
@@ -1726,49 +1726,49 @@
         "DIRECCION": "AVENIDA PINO MONTANO - ESTAFETA - PROFESOR TIERNO GALVAN",
         "NODO": 7,
         "NUMCRUCE": 248,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "EFESO - AVENIDA DE LA SOLEA - DOCTOR   LAFFON SOTO",
         "NODO": 6,
         "NUMCRUCE": 249,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "THARSIS - ANDRES SEGOVIA - CARMEN MARTINEZ SANCHO",
         "NODO": 20,
         "NUMCRUCE": 250,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA MONTES SIERRA - AVENIDA SANTA CLARA DE CUBA - RAFAEL BECA MATEOS",
         "NODO": 10,
         "NUMCRUCE": 251,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA SANTA CLARA DE CUBA - DAMASCO - ANTIOQUIA",
         "NODO": 9,
         "NUMCRUCE": 252,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "DOCTOR LAFFON SOTO - TESALONICA - AVENIDA DE PEORO ROMERO",
         "NODO": 7,
         "NUMCRUCE": 253,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "MACEDONIA-AVENIDA VILLAS DE CUBA",
         "NODO": 10,
         "NUMCRUCE": 254,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 21,
@@ -1782,70 +1782,70 @@
         "DIRECCION": "ESPERANZA DE TRIANA - EVANGELISTA",
         "NODO": 8,
         "NUMCRUCE": 256,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 15,
         "DIRECCION": "AVENIDA ALCALDE LUIS URU�UELA - ACCESO CARREFOUR SAN PABLO",
         "NODO": 3,
         "NUMCRUCE": 257,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 15,
         "DIRECCION": "GLORIETA PALACIO DE CONGRESOS - AVENIDA ALCALDE LUIS URUÑUELA",
         "NODO": 29,
         "NUMCRUCE": 258,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA DE LA MUJER TRABAJADORA - AVENIDA DE LAS ASOCIACIONES    DE VECINOS",
         "NODO": 17,
         "NUMCRUCE": 259,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "ARROYO - THARSIS - VICENTE ALANIS",
         "NODO": 21,
         "NUMCRUCE": 260,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA REINA MERCEDES - TRAMONTANA - PROFESOR GARCIA GONZALEZ",
         "NODO": 20,
         "NUMCRUCE": 261,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "CARRETERA SU EMINENCIA - ACCESO INDUYCO - PARQUE EMPRESARIAL EL REFUGIO",
         "NODO": 2,
         "NUMCRUCE": 262,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "MARQUES DE PICKMAN - MARIANO BENLLIURE - ARZOBISPO SALCEDO",
         "NODO": 24,
         "NUMCRUCE": 263,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": " CARRETERA DE BRENES - CARRETERA DE MIRAFLORES - VEREDA POCO ACEITE (CTRA-SE-112-VALDEZORRAS)",
         "NODO": 20,
         "NUMCRUCE": 264,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "CLEMENTE HIDALGO - ALEJANDRO COLLANTES (R.TAMARGUILLO - ALEJANDRO COLLANTES)",
         "NODO": 2,
         "NUMCRUCE": 265,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 8,
@@ -1873,21 +1873,21 @@
         "DIRECCION": "RONDA URBANA NORTE - POLIGONO STORE - CARRETERA MIRAFLORES",
         "NODO": 2,
         "NUMCRUCE": 269,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 23,
         "DIRECCION": "RONDA URBANA NORTE - POLIGONO CALONGE - METALURGIA",
         "NODO": 4,
         "NUMCRUCE": 270,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "AVENIDA KANSAS CITY - EFESO - AVENIDA ALCALDE MANUEL DEL VALLE",
         "NODO": 14,
         "NUMCRUCE": 271,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 8,
@@ -1908,21 +1908,21 @@
         "DIRECCION": "AVENIDA ALCALDE MANUEL DEL VALLE - BALTASAR DE ALCAZAR - THARSIS",
         "NODO": 17,
         "NUMCRUCE": 274,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "AVENIDA ALCALDE MANUEL DEL VALLE - RAFAEL GONZALEZ ROMERO - AVENIDA DE LLANES",
         "NODO": 18,
         "NUMCRUCE": 275,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "CARRETERA CARMONA - AVENIDA ALCALDE MANUEL DEL VALLE",
         "NODO": 5,
         "NUMCRUCE": 276,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
@@ -1943,21 +1943,21 @@
         "DIRECCION": "AVENIDA   MANUEL SIUROT - CARDENAL BUENO MONREAL",
         "NODO": 10,
         "NUMCRUCE": 279,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA PALMERA - CARDENAL BUENO MONREAL",
         "NODO": 7,
         "NUMCRUCE": 280,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "AVENIDA DE LA RAZA - CARDENAL BUENO MONREAL - PUENTE DE LAS DELICIAS",
         "NODO": 19,
         "NUMCRUCE": 281,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
@@ -1978,35 +1978,35 @@
         "DIRECCION": "AVENIDA ALCALDE MANUEL DEL VALLE - ALEJANDRO SAWA",
         "NODO": 20,
         "NUMCRUCE": 284,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": " ALCALDE MANUEL DEL VALLE - AVENIDA SAN JUAN DE LA SALLE - AVENIDA DE LA MUJER",
         "NODO": 19,
         "NUMCRUCE": 285,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA ALCALDE MANUEL DEL VALLE - AVENIDA PINO MONTANO",
         "NODO": 5,
         "NUMCRUCE": 286,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA ALCALDE MANUEL DEL VALLE - ESTRELLA ORIENTE - DIEGO PESQUERA",
         "NODO": 13,
         "NUMCRUCE": 287,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "GLORIETA FUERTE NAVIDAD - AVENIDA KANSAS CITY - AVENIDA VILLAS DE CUBA - CONDE OSBORNE",
         "NODO": 11,
         "NUMCRUCE": 288,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
@@ -2020,14 +2020,14 @@
         "DIRECCION": "PAGES DEL CORRO - PARAISO - GENOVA - TROYA - ARDILLA",
         "NODO": 18,
         "NUMCRUCE": 290,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 6,
         "DIRECCION": "PP. AVENIDA JUAN PABLO II- BARBERAN Y COLLAR",
         "NODO": 20,
         "NUMCRUCE": 291,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 3,
@@ -2048,7 +2048,7 @@
         "DIRECCION": "AVENIDA KANSAS CITY - ESTACION SANTA JUSTA",
         "NODO": 11,
         "NUMCRUCE": 294,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 10,
@@ -2069,7 +2069,7 @@
         "DIRECCION": "RONDA DE TRIANA - SAN VICENTE DE PAUL - JUAN DE PINEDA",
         "NODO": 12,
         "NUMCRUCE": 297,
-        "TIPO": "MTR/3"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 51,
@@ -2083,21 +2083,21 @@
         "DIRECCION": "RONDA DEL TAMARGUILLO - CALLE DE SAN FERNANDO         (MADERAS LA FORESTAL)",
         "NODO": 32,
         "NUMCRUCE": 299,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "AGRICULTORES - SEMBRADORES - ESTRELLA ANTARES",
         "NODO": 17,
         "NUMCRUCE": 300,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "MEDINA Y GALNARES - CALAMAR - MERO - ACCESO F.A.S.A. RENAULT",
         "NODO": 10,
         "NUMCRUCE": 301,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
@@ -2125,14 +2125,14 @@
         "DIRECCION": "RONDA DE LA NEGRILLA - CHUCENA - SAN JOSE DE PALMETE",
         "NODO": 10,
         "NUMCRUCE": 305,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 3,
         "DIRECCION": "TORNEO - NARCISO BONAPLATA",
         "NODO": 1,
         "NUMCRUCE": 306,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 3,
@@ -2160,14 +2160,14 @@
         "DIRECCION": "GLORIETA OLIMPICA",
         "NODO": 1,
         "NUMCRUCE": 310,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA DE LA MUJER TRABAJADORA - FAMILIAS CUIDADORAS - BARRIADA SAN DIEGO",
         "NODO": 18,
         "NUMCRUCE": 311,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
@@ -2244,7 +2244,7 @@
         "DIRECCION": "AVENIDA  DE LAS CIENCIAS - AVENIDA ALCALDE LUIS URU�UELA - AVENIDA REPUBLICA CHINA - URBANO ORAD",
         "NODO": 5,
         "NUMCRUCE": 322,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 15,
@@ -2279,14 +2279,14 @@
         "DIRECCION": "AVENIDA DE ANDALUCIA - AMOR",
         "NODO": 13,
         "NUMCRUCE": 327,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDADE ANDALUCIA- AVENIDA PARQUE AMATE - COMERCIO",
         "NODO": 12,
         "NUMCRUCE": 328,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 1,
@@ -2314,14 +2314,14 @@
         "DIRECCION": "SUPER NORTE - CORTIJO DE LAS CASILLAS",
         "NODO": 26,
         "NUMCRUCE": 332,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 1,
         "DIRECCION": "AVENIDA PABLO IGLESIAS - URQUIZA - SAN JUAN BOSCO",
         "NODO": 22,
         "NUMCRUCE": 333,
-        "TIPO": "MF4/10"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 22,
@@ -2377,7 +2377,7 @@
         "DIRECCION": "AVENIDA DE JEREZ - AVENIDA DE FINLANDIA - ACCESO FREMAP - ACCESO HOSPITAL MILITAR",
         "NODO": 3,
         "NUMCRUCE": 341,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
@@ -2391,7 +2391,7 @@
         "DIRECCION": "RONDA TRIANA - TEJARES - NICULOSO PISANO",
         "NODO": 24,
         "NUMCRUCE": 343,
-        "TIPO": "MTR/2"
+        "TIPO": "MTR"
     },
     {
         "CENTRAL": 3,
@@ -2405,35 +2405,35 @@
         "DIRECCION": "RONDA DE LA NEGRILLA RONDA DE LA DOCTORA",
         "NODO": 9,
         "NUMCRUCE": 345,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "GLORIETA DE LOS FERROVIARIOS - MEDINA Y GALNARES - NAVARRA - AVENIDA SAN JER�NIMO - DOCTOR      FEDRIANI",
         "NODO": 7,
         "NUMCRUCE": 346,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 3,
         "DIRECCION": "RONDA TRIANA - MANUEL ARELLANO",
         "NODO": 25,
         "NUMCRUCE": 347,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "GLORIETA AMANTINA   COBOS - AVENIDA DE LA PLATA - RAFAEL DE LEON - RONDA PADRE PIO - VALENTINA PINELO",
         "NODO": 15,
         "NUMCRUCE": 348,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "AGRICULTORES - CAMINO DE LOS TOROS - MAR DE ALBORAN",
         "NODO": 16,
         "NUMCRUCE": 349,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 8,
@@ -2447,21 +2447,21 @@
         "DIRECCION": "CARDENAL BUENO MONREAL - VALPARAISO",
         "NODO": 25,
         "NUMCRUCE": 351,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
         "DIRECCION": "RONDA SUPER NORTE - CARRETERA DE MIRAFLORES (R.SUPER NORTE-ACC.VALDEZORRAS)",
         "NODO": 19,
         "NUMCRUCE": 352,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 23,
         "DIRECCION": "RONDA URBANA   NORTE - NUEVO POLIGONO CALONGE - ESPATULA - AZOGUE",
         "NODO": 3,
         "NUMCRUCE": 353,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 16,
@@ -2475,7 +2475,7 @@
         "DIRECCION": "AVENIDA DE ANDALUCIA - MANUEL VELASCO PANDO",
         "NODO": 19,
         "NUMCRUCE": 355,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 9,
@@ -2489,14 +2489,14 @@
         "DIRECCION": "AMOR - SATSUMA - CA�ADUL",
         "NODO": 24,
         "NUMCRUCE": 357,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 14,
         "DIRECCION": "AVENIDA DE PEDRO ROMERO - FRASCUELO",
         "NODO": 22,
         "NUMCRUCE": 358,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
@@ -2510,14 +2510,14 @@
         "DIRECCION": "PP. AVENIDA HYTASA - POLIDEPORTIVO HYTASA - ALVAREZ BENAVIDES",
         "NODO": 21,
         "NUMCRUCE": 360,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "CARDENAL BUENO MONREAL - ANTONIO MAURA MONTANER - BOGOTA",
         "NODO": 26,
         "NUMCRUCE": 361,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 22,
@@ -2573,7 +2573,7 @@
         "DIRECCION": "AVENIDA DE SENECA - CIUDAD DE LIRIA",
         "NODO": 15,
         "NUMCRUCE": 369,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 10,
@@ -2594,7 +2594,7 @@
         "DIRECCION": "CORRAL DEL AGUA - CORRAL DE LOS OLMOS - PARQUE DE DOÑANA",
         "NODO": 14,
         "NUMCRUCE": 372,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 8,
@@ -2608,14 +2608,14 @@
         "DIRECCION": "AVENIDA LLANES - AMALIA TORRIJOS - NAVIA",
         "NODO": 27,
         "NUMCRUCE": 374,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "AVENIDA LLANES - ESCULTOR FRANCISCO BUIZA - SANTA MARIA DE LAS ROCINAS",
         "NODO": 28,
         "NUMCRUCE": 375,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 16,
@@ -2664,7 +2664,7 @@
         "DIRECCION": "GLORIETA BERROCAL - AVENIDA ALCALDE MANUEL DEL VALLE - PARQUE DE DO�ANA - RONDA DEL TAMARGUILLO",
         "NODO": 12,
         "NUMCRUCE": 382,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 15,
@@ -2692,7 +2692,7 @@
         "DIRECCION": "PP AVENIDA PRESIDENTE ADOLFO SUAREZ - VIRGEN DE LA CINTA (PP CARRERO BLANCO-CIRCULO MERCANTIL",
         "NODO": 19,
         "NUMCRUCE": 386,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 6,
@@ -2706,7 +2706,7 @@
         "DIRECCION": "AVENIDA LA BARZOLA - CONSTANTINA",
         "NODO": 23,
         "NUMCRUCE": 388,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 21,
@@ -2720,14 +2720,14 @@
         "DIRECCION": "IFNI- CHILE - AVENIDA DE GRECIA",
         "NODO": 29,
         "NUMCRUCE": 390,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 4,
         "DIRECCION": "AVENIDA LA BARZOLA - COMUNIDAD EXTREME�A - CAMINO DE CANTALOBOS",
         "NODO": 11,
         "NUMCRUCE": 391,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 15,
@@ -2762,7 +2762,7 @@
         "DIRECCION": "REAL DE LA JARA - COMUNIDAD EXTREME�A - COMUNIDAD VALENCIANA - CAZALLA DE LA SIERRA",
         "NODO": 24,
         "NUMCRUCE": 396,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 16,
@@ -2804,14 +2804,14 @@
         "DIRECCION": "AVENIDA DO�A FRANCISQUITA - AVENIDA DE LA CALESERA",
         "NODO": 16,
         "NUMCRUCE": 402,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA LA BARZOLA - CAZALLA DE LA SIERRA",
         "NODO": 14,
         "NUMCRUCE": 403,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 51,
@@ -2825,28 +2825,28 @@
         "DIRECCION": "MAR DE ALBORAN - CORRAL DE LOS OLMOS - PARQUE DE LOS ALCORNOCALES",
         "NODO": 15,
         "NUMCRUCE": 405,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 11,
         "DIRECCION": "AVENIDA PEDRO ROMERO - ANTIOQUIA - AVENIDA VILLAS DE CUBA - CARABELA LA PINTA",
         "NODO": 25,
         "NUMCRUCE": 406,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
         "DIRECCION": "ALMENDRALEJO - TURIA - ASTRONOMO JOSE LUIS COMELLAS",
         "NODO": 20,
         "NUMCRUCE": 407,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "IFNI- DOCTOR FLEMING - IGUAZU - AVENIDA DE HOLANDA",
         "NODO": 28,
         "NUMCRUCE": 408,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 21,
@@ -2867,7 +2867,7 @@
         "DIRECCION": "LEON XIII - JORGE DE MONTEMAYOR",
         "NODO": 13,
         "NUMCRUCE": 411,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
@@ -2916,12 +2916,12 @@
         "DIRECCION": "RAFAEL BECA MATEOS - COMERCIO",
         "NODO": 25,
         "NUMCRUCE": 418,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
-        "CENTRAL": "",
+        "CENTRAL": 0,
         "DIRECCION": "R.PIÑEIRO - PIROTECNIA",
-        "NODO": "",
+        "NODO": 0,
         "NUMCRUCE": 419,
         "TIPO": "SENTINEL"
     },
@@ -2930,28 +2930,28 @@
         "DIRECCION": "AVENIDA DE GRECIA - AVENIDA DE FRANCIA",
         "NODO": 4,
         "NUMCRUCE": 420,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 20,
         "DIRECCION": "AVENIDA DE REINO UNIDO - NUESTRA SEÑORA DEL PILAR",
         "NODO": 6,
         "NUMCRUCE": 421,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "SINCERIDAD - SAN JOSE DE PALMETE - AFAN - IMPRENTA - PLEGADORA",
         "NODO": 8,
         "NUMCRUCE": 422,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "HONESTIDAD - COMPASION - SAN JOSE DE PALMETE - LAMINADORA - PINO SIBERIA",
         "NODO": 7,
         "NUMCRUCE": 423,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
@@ -2965,14 +2965,14 @@
         "DIRECCION": "PP. PROFESOR TIERNO GALVAN(PP BDA. LAS ALMENAS-BDA. LOS ARCOS)",
         "NODO": 18,
         "NUMCRUCE": 425,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 13,
         "DIRECCION": "RONDA PADRE PIO - LA PUEBLA DEL RIO",
         "NODO": 17,
         "NUMCRUCE": 426,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 2,
@@ -2986,7 +2986,7 @@
         "DIRECCION": "AVENIDA SAN JUAN DE LA CRUZ - JULIAN DE AVILA - AVENIDA JUAN XXIII - LUISA DE LA CERDA",
         "NODO": 25,
         "NUMCRUCE": 428,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 7,
@@ -3000,7 +3000,7 @@
         "DIRECCION": "AVENIDA DE LA CALESERA - AVENIDA DE LA MONTERIA",
         "NODO": 18,
         "NUMCRUCE": 430,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 8,
@@ -3014,14 +3014,14 @@
         "DIRECCION": "AVENIDA DEL DEPORTE - ACCESO TORREBLANCA - AVENIDA DE PERO MINGO",
         "NODO": 24,
         "NUMCRUCE": 432,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 10,
         "DIRECCION": "AVENIDA LUIS DE MORALES - ACCESO PARKING EL CORTE INGLES",
         "NODO": 7,
         "NUMCRUCE": 433,
-        "TIPO": "MF4/4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 15,
@@ -3042,14 +3042,14 @@
         "DIRECCION": "PP. BALTASAR ALCAZAR - SANCHEZ SAMANIEGO",
         "NODO": 26,
         "NUMCRUCE": 436,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA DE LAS ASOCIACIONES DE VECINOS - AJIMEZ - OJIVA",
         "NODO": 23,
         "NUMCRUCE": 437,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
@@ -3063,7 +3063,7 @@
         "DIRECCION": "PP. ADA - ACCESO MERCADONA",
         "NODO": 26,
         "NUMCRUCE": 439,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 16,
@@ -3175,7 +3175,7 @@
         "DIRECCION": "TORRELAGUNA - MARINALEDA - AVENIDA DE PERO MINGO - TORRES ALBAS",
         "NODO": 6,
         "NUMCRUCE": 455,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
@@ -3203,7 +3203,7 @@
         "DIRECCION": "CARRETERA SU EMINENCIA - CASTILLO DE MARCHENILLA - JANDULA",
         "NODO": 4,
         "NUMCRUCE": 459,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 1,
@@ -3217,21 +3217,21 @@
         "DIRECCION": "TRABAJADORES INMIGRANTES - PUEBLO PALESTINO",
         "NODO": 26,
         "NUMCRUCE": 461,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 7,
         "DIRECCION": "PAEZ DE RIVERA - SOR GREGORIA DE SANTA TERESA",
         "NODO": 17,
         "NUMCRUCE": 462,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 20,
         "DIRECCION": "AVENIDA DE REINO UNIDO - ALEMANIA - POLONIA",
         "NODO": 9,
         "NUMCRUCE": 463,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 20,
@@ -3245,14 +3245,14 @@
         "DIRECCION": "AVENIDA DE ALEMANIA - SUECIA - PASEO DE EUROPA",
         "NODO": 8,
         "NUMCRUCE": 465,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "SINAI - BALTASAR GRACIAN - HERNANDO DEL PULGAR",
         "NODO": 25,
         "NUMCRUCE": 466,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 50,
@@ -3280,7 +3280,7 @@
         "DIRECCION": "MARIA�AUXILIADORA - SALESIANOS",
         "NODO": 26,
         "NUMCRUCE": 470,
-        "TIPO": "MF5/4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
@@ -3301,7 +3301,7 @@
         "DIRECCION": "CODORNIZ - ALONDRA - GALAXIA",
         "NODO": 21,
         "NUMCRUCE": 473,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 10,
@@ -3315,7 +3315,7 @@
         "DIRECCION": "AVENIDA DE SENECA - EMILIA BARRAL",
         "NODO": 1,
         "NUMCRUCE": 475,
-        "TIPO": "MF5"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 52,
@@ -3420,7 +3420,7 @@
         "DIRECCION": "AVENIDA HYTASA - QUEJIO",
         "NODO": 20,
         "NUMCRUCE": 490,
-        "TIPO": "MFU"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 54,
@@ -3462,7 +3462,7 @@
         "DIRECCION": "RONDA URBANA NORTE - PARQUE DE LOS ALCORNOCALES - BUZON",
         "NODO": 5,
         "NUMCRUCE": 496,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 8,
@@ -3497,21 +3497,21 @@
         "DIRECCION": "AVENIDA JEREZ - NUESTRA SE�ORA DEL PILAR (MERCADONA)",
         "NODO": 5,
         "NUMCRUCE": 501,
-        "TIPO": "MF4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 52,
         "DIRECCION": "CARRETERA DE CARMONA - HIGUERA DE LA SIERRA",
         "NODO": 6,
         "NUMCRUCE": 502,
-        "TIPO": "MF4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 8,
         "DIRECCION": "AVENIDA ALCALDE JUAN FERNANDEZ - AVION CUATRO VIENTOS",
         "NODO": 24,
         "NUMCRUCE": 503,
-        "TIPO": "MF4"
+        "TIPO": "MF"
     },
     {
         "CENTRAL": 51,
@@ -3686,56 +3686,56 @@
         "DIRECCION": "PP. MONTES SIERRA (G�MEZ MAQUEDA)",
         "NODO": 1,
         "NUMCRUCE": 528,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 50,
         "DIRECCION": "CORRAL DELAGUA - SIERRA DE AROCHE - CORRAL BARQUILLEROS",
         "NODO": 2,
         "NUMCRUCE": 529,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "PP.AVENIDA PINO MONTANO - COMUNIDAD EXTREME�A",
         "NODO": 4,
         "NUMCRUCE": 530,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 2,
         "DIRECCION": "AVENIDASANCHEZ PIZIUAN - INSTITUTO ANAT�MICO FORENSE",
         "NODO": 5,
         "NUMCRUCE": 531,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 12,
         "DIRECCION": "AVENIDA PINO MONTANO  - ACCESO BARRIADA SAN DIEGO",
         "NODO": 8,
         "NUMCRUCE": 532,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 5,
         "DIRECCION": "PP RONDA TRIANA - PARQUE DEL TURRU�UELO",
         "NODO": 5,
         "NUMCRUCE": 533,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 5,
         "DIRECCION": "PP LOPEZDE GOMARA-GIJON",
         "NODO": 6,
         "NUMCRUCE": 534,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 6,
         "DIRECCION": "AVENIDA FLOTA DE INDIAS - PE�A BETICA LOS REMEDIOS",
         "NODO": 21,
         "NUMCRUCE": 535,
-        "TIPO": "DYNAMIC_T3"
+        "TIPO": "DYNAMIC"
     },
     {
         "CENTRAL": 6,

@@ -1,4 +1,4 @@
-package com.example.crucessevillaapp.navigation
+package com.example.crucessevillaapp.ui.navigation
 
 sealed class AppScreens (val route : String){
     object Portada: AppScreens("portada")
