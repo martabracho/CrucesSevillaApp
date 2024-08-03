@@ -3,6 +3,7 @@ package com.example.crucessevillaapp.ui.screens
 import android.annotation.SuppressLint
 import android.content.Context
 import android.util.Log
+import android.widget.TextView
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -20,6 +21,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
@@ -58,58 +60,60 @@ import com.example.crucessevillaapp.data.Semaforo
     }
 
     @Composable
-    fun SecondBodyContent(navController: NavController, context: Context, idCruce: String?){
+    fun SecondBodyContent(navController: NavController, context: Context, idCruce: String?) {
         val appContext = context.applicationContext
         val database = CrucesDatabase.getDatabase(appContext)
 
+        val numCruceState = remember { mutableSetOf(0) }
+        val direccionState = remember { mutableSetOf("") }
+        val tipoState = remember { mutableSetOf("") }
+        val nodoState = remember { mutableSetOf(0) }
+        val centralState = remember { mutableSetOf(0) }
+
+        idCruce?.let {
+            database.semaforoDao().getById(it.toInt()).observeForever {
+                numCruceState.clear()
+                numCruceState.add(it.numCruce)
+                direccionState.clear()
+                direccionState.add(it.direccion)
+                tipoState.clear()
+                tipoState.add(it.tipo)
+                nodoState.clear()
+                nodoState.add(it.nodo)
+                centralState.clear()
+                centralState.add(it.central)
+            }
+        }
         Column (
             modifier = Modifier.fillMaxSize(),
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ){
-            var numCruce : Int = 0
-            var direccion : String = ""
-            var tipo : String = ""
-            var nodo : Int = 0
-            var central : Int = 0
-
-            TextField(value = "", onValueChange = {} )
-            Spacer(modifier = Modifier.height(16.dp))
-            idCruce?.let {
-                val sem : LiveData<Semaforo>
-                //sem = database.semaforoDao().getById(it.toInt())
-                //todo consultar a la bd si el numero de cruce existe y sacar los datos del cruce
-                database.semaforoDao().getById(it.toInt()).observeForever {
-                    //todo mostrar los datos del cruce
-                    Log.i("InfoCruce", "NumCruce: ${it.numCruce}")
-                    Log.i("InfoCruce", "Direccion: ${it.direccion}")
-                    Log.i("InfoCruce", "Tipo: ${it.tipo}")
-                    Log.i("InfoCruce", "Nodo: ${it.nodo}")
-                    Log.i("InfoCruce", "Central: ${it.central}")
-                    numCruce = it.numCruce
-                    direccion = it.direccion
-                    tipo = it.tipo
-                    nodo = it.nodo
-                    central = it.central
-                }
-                //TODO aqui es donde peta
-                Text("NumCruce: " + numCruce.toString())
-                Text("Direccion: " + direccion)
-                Text("Tipo: " + tipo)
-                Text("Nodo: " + nodo.toString())
-                Text("Central: " + central.toString())
-
-
+            numCruceState.forEach {
+                Text("NumCruce: $it")
             }
+            Spacer(modifier = Modifier.height(8.dp))
+            direccionState.forEach {
+                Text("Direccion: $it")
+            }
+            Spacer(modifier = Modifier.height(8.dp))
+            tipoState.forEach {
+                Text("Tipo: $it")
+            }
+            Spacer(modifier = Modifier.height(8.dp))
+            nodoState.forEach {
+                Text("Nodo: $it")
+            }
+            Spacer(modifier = Modifier.height(8.dp))
+            centralState.forEach {
+                Text("Central: $it")
+            }
+            Spacer(modifier = Modifier.height(32.dp))
             Button(onClick = {
-                navController.navigate(route = "Portada")
+                navController.popBackStack()
             }) {
                 Text("Volver")
             }
         }
     }
-
-
-
-
 

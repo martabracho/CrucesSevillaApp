@@ -64,8 +64,7 @@ fun BodyContentBD(navController: NavController, context: Context) {
 
             //cruces.forEachIndexed { idx, semaforo -> Log.i("data", "> Item $idx:\n${semaforo.numCruce}\n${semaforo.direccion}") }
             CoroutineScope(Dispatchers.IO).launch {
-                val listSemaforos : LiveData<List<Semaforo>>
-                listSemaforos = database.semaforoDao().getAll()
+                val listSemaforos : LiveData<List<Semaforo>> = database.semaforoDao().getAll()
                 listSemaforos.value?.forEachIndexed { idx, semaforo -> Log.i("data", "> Item $idx:\n${semaforo.numCruce}\n${semaforo.direccion}") }
             }
 

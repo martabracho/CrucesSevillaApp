@@ -107,8 +107,7 @@ fun Portada (navController: NavController) {
             Button(onClick = {
 
                 CoroutineScope(Dispatchers.IO).launch {
-                    val listSemaforos : LiveData<List<Semaforo>>
-                    listSemaforos = database.semaforoDao().getAll()
+                    val listSemaforos : LiveData<List<Semaforo>> = database.semaforoDao().getAll()
                     //TODO pasar todos los datos en listSemaforos a la pantalla de visualización
                     listSemaforos.value?.forEachIndexed { idx, semaforo -> Log.i("data", "> Item $idx:\n${semaforo.numCruce}\n${semaforo.direccion}") }
                 }
