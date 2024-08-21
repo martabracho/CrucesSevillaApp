@@ -80,19 +80,18 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
     implementation("com.google.code.gson:gson:2.8.8")
 
-
-
     //Room
-
     val room_version = "2.6.1"
     implementation("androidx.room:room-runtime:$room_version")
     //annotationProcessor("androidx.room:room-compiler:$room_version")
     ksp("androidx.room:room-compiler:$room_version")
     implementation("androidx.room:room-ktx:$room_version")
-
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07")
 
+    //OpenStreet Map
 
+    implementation("org.osmdroid:osmdroid-android:6.1.16")
+    implementation("androidx.interpolator:interpolator:1.0.0")
 
 
 

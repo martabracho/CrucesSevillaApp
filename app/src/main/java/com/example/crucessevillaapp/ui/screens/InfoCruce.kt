@@ -24,6 +24,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.example.crucessevillaapp.data.CrucesDatabase
+import com.example.crucessevillaapp.ui.navigation.AppScreens
 
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -102,6 +103,10 @@ import com.example.crucessevillaapp.data.CrucesDatabase
                 Text("Central: $it")
             }
             Spacer(modifier = Modifier.height(32.dp))
+            Button(onClick = { navController.navigate(route = AppScreens.MapScreen.route) }) {
+                Text(text = "Ver en el mapa")
+            }
+            Spacer(modifier = Modifier.height(8.dp))
             Button(onClick = {
                 navController.popBackStack()
             }) {

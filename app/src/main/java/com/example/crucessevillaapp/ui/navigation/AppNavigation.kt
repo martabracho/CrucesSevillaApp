@@ -10,7 +10,8 @@ import androidx.navigation.navArgument
 import com.example.crucessevillaapp.ui.screens.InfoCruce
 import com.example.crucessevillaapp.ui.screens.Portada
 import com.example.crucessevillaapp.ui.screens.SettingsBD
-import com.example.crucessevillaapp.ui.screens.ViewCruces
+import com.example.crucessevillaapp.ui.screens.MapScreen
+
 
 
 /**
@@ -32,9 +33,11 @@ fun AppNavigation() {
         composable(route = AppScreens.SettingsBD.route){
             SettingsBD(navController)
         }
-        composable(route = AppScreens.ViewCruces.route){
-            ViewCruces(navController)
+        composable(route = AppScreens.MapScreen.route){
+            MapScreen(navController)
         }
     }
 }
+
+
 

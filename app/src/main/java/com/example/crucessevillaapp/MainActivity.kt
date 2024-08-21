@@ -10,9 +10,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.crucessevillaapp.ui.navigation.AppNavigation
 import com.example.crucessevillaapp.ui.theme.CrucesSevillaAppTheme
+import org.osmdroid.tileprovider.tilesource.TileSourceFactory
+import org.osmdroid.views.MapView
 
 
 class MainActivity : ComponentActivity() {
+    private val REQUEST_PERMISSIONS_REQUEST_CODE = 1
+    private lateinit var map: MapView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
