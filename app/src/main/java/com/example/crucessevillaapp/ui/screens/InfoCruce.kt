@@ -17,6 +17,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -63,6 +64,11 @@ import com.example.crucessevillaapp.ui.navigation.AppScreens
         val tipoState = remember { mutableSetOf("") }
         val nodoState = remember { mutableSetOf(0) }
         val centralState = remember { mutableSetOf(0) }
+        DisposableEffect(Unit) {
+            onDispose {
+                database.close()
+            }
+        }
 
         idCruce?.let {
             database.semaforoDao().getById(it.toInt()).observeForever {
@@ -103,7 +109,8 @@ import com.example.crucessevillaapp.ui.navigation.AppScreens
                 Text("Central: $it")
             }
             Spacer(modifier = Modifier.height(32.dp))
-            Button(onClick = { navController.navigate(route = AppScreens.MapScreen.route) }) {
+            // navController.navigate(route = AppScreens.InfoCruce.route + "/" + textFieldValue)
+            Button(onClick = { navController.navigate(route = AppScreens.MapScreen.route + "/" + direccionState.elementAt(0)) }) {
                 Text(text = "Ver en el mapa")
             }
             Spacer(modifier = Modifier.height(8.dp))

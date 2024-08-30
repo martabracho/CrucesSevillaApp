@@ -33,8 +33,8 @@ fun AppNavigation() {
         composable(route = AppScreens.SettingsBD.route){
             SettingsBD(navController)
         }
-        composable(route = AppScreens.MapScreen.route){
-            MapScreen(navController)
+        composable(route = AppScreens.MapScreen.route + "/{direccion}"){
+            MapScreen(navController, it.arguments?.getString("direccion"))
         }
     }
 }
