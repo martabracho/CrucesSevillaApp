@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">CrucesSevillaApp</string>
     <string name="title_activity_view_cruces">ViewCruces</string>
+    <string-array name="street_types">
+        <item>AVENIDA</item>
+        <item>CARRETERA</item>
+        <item>PLAZA</item>
+        <item>GLORIETA</item>
+        <item>PASEO</item>
+        <item>RONDA</item>
+        <item>PUENTE</item>
+    </string-array>
 </resources>
